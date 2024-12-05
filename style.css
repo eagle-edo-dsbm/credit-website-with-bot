@@ -17,6 +17,7 @@ a{
 
 header, .categories{
     transition: 1s;
+    opacity: 1;
 }
 
 .logo{
